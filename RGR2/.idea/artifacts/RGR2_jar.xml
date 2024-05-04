@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact name="RGR2:jar">
+    <output-path>$PROJECT_DIR$/RGR2_jar</output-path>
+    <root id="root">
+      <element id="archive" name="RGR2.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+        <element id="module-output" name="RGR2" />
+      </element>
+    </root>
+  </artifact>
+</component>
